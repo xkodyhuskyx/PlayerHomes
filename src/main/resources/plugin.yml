@@ -1,0 +1,8 @@
+name: PlayerHomes
+version: '${project.version}'
+main: com.kodexsystems.playerhomes.PlayerHomes
+api-version: 1.18
+prefix: PlayerHomes
+authors: [ xkodyhuskyx ]
+description: A spigot plugin that allow players to set, modify, and remove homes.
+website: https://www.kodexsystems.com/minecraft/plugins/playerhomes
